@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.509" d="M15.72 9.69a5.25 5.25 0 010 7.44 5.251 5.251 0 01-7.44 0 5.25 5.25 0 010-7.44 5.251 5.251 0 017.44 0zM12 13.41L10.41 15"/>
+  <path stroke-miterlimit="10" d="M19.07 6.34c.15.15.15.4 0 .56-.15.15-.4.15-.56 0-.16-.15-.15-.4 0-.56.15-.16.41-.16.56 0z"/>
+  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M19.07 6.34c.15.15.15.4 0 .56-.15.15-.4.15-.56 0-.16-.15-.15-.4 0-.56.15-.16.41-.16.56 0z"/>
+  <path stroke-miterlimit="10" d="M5.49 19.92c.15.15.15.4 0 .56-.15.16-.4.15-.56 0a.405.405 0 010-.56c.15-.16.41-.16.56 0z"/>
+  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M5.49 19.92c.15.15.15.4 0 .56-.15.16-.4.15-.56 0a.405.405 0 010-.56c.15-.16.41-.16.56 0z"/>
+  <path stroke-miterlimit="10" d="M21.88 13.13c.15.15.15.4 0 .56-.15.15-.4.15-.56 0-.16-.15-.15-.4 0-.56.15-.16.41-.16.56 0z"/>
+  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M21.88 13.13c.15.15.15.4 0 .56-.15.15-.4.15-.56 0-.16-.15-.15-.4 0-.56.15-.16.41-.16.56 0z"/>
+  <path stroke-miterlimit="10" d="M2.67 13.13c.15.15.15.4 0 .56-.15.16-.4.15-.56 0a.405.405 0 010-.56c.16-.16.41-.16.56 0z"/>
+  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M2.67 13.13c.15.15.15.4 0 .56-.15.16-.4.15-.56 0a.405.405 0 010-.56c.16-.16.41-.16.56 0z"/>
+  <path stroke-miterlimit="10" d="M19.07 19.92c.15.15.15.4 0 .56-.15.15-.4.15-.56 0-.16-.15-.15-.4 0-.56.16-.16.41-.16.56 0z"/>
+  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M19.07 19.92c.15.15.15.4 0 .56-.15.15-.4.15-.56 0-.16-.15-.15-.4 0-.56.16-.16.41-.16.56 0z"/>
+  <path stroke-miterlimit="10" d="M5.49 6.34c.15.15.15.4 0 .56-.15.16-.4.15-.56 0a.405.405 0 010-.56c.15-.16.41-.16.56 0z"/>
+  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M5.49 6.34c.15.15.15.4 0 .56-.15.16-.4.15-.56 0a.405.405 0 010-.56c.15-.16.41-.16.56 0z"/>
+  <path stroke-miterlimit="10" d="M12.28 3.52c.15.15.15.4 0 .56-.15.16-.4.15-.56 0-.16-.15-.15-.4 0-.56.15-.16.41-.15.56 0z"/>
+  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M12.28 3.52c.15.15.15.4 0 .56-.15.16-.4.15-.56 0-.16-.15-.15-.4 0-.56.15-.16.41-.15.56 0z"/>
+</svg>

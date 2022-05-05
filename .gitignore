@@ -1,0 +1,8 @@
+dist/
+optimized/
+node_modules/
+vendor/
+.phpunit.result.cache
+composer.lock
+phpunit.xml
+package-lock.json

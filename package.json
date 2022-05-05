@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "rimraf ./optimized && npm run build-bold && npm run build-broken && npm run build-bulk && npm run build-outline && npm run build-linear && npm run build-twotone",
+    "build-bold": "rimraf ./optimized/bold && svgo --config=svgo.bold.yaml -f ./dist/bold -o ./optimized/bold --pretty --indent=2",
+    "build-broken": "rimraf ./optimized/broken && svgo --config=svgo.broken.yaml -f ./dist/broken -o ./optimized/broken --pretty --indent=2",
+    "build-bulk": "rimraf ./optimized/bulk && svgo --config=svgo.bulk.yaml -f ./dist/bulk -o ./optimized/bulk --pretty --indent=2",
+    "build-outline": "rimraf ./optimized/outline && svgo --config=svgo.outline.yaml -f ./dist/outline -o ./optimized/outline --pretty --indent=2",
+    "build-linear": "rimraf ./optimized/linear && svgo --config=svgo.linear.yaml -f ./dist/linear -o ./optimized/linear --pretty --indent=2",
+    "build-twotone": "rimraf ./optimized/twotone && svgo --config=svgo.twotone.yaml -f ./dist/twotone -o ./optimized/twotone --pretty --indent=2"
+  },
+  "devDependencies": {
+    "rimraf": "^3.0.2",
+    "svgo": "^1.3.2"
+  }
+}

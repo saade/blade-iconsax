@@ -1,0 +1,14 @@
+'plugins':
+  - 'removeDimensions': true
+  - 'removeXMLNS': false
+  - 'sortAttrs': true
+  - 'removeAttrs':
+      attrs:
+        - 'width'
+        - 'height'
+        - 'fill'
+        - 'path:fill'
+  - 'addAttributesToSVGElement':
+      attributes:
+        - 'fill': 'currentColor'
+        - 'aria-hidden': 'true'
