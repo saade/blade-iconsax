@@ -19,7 +19,7 @@
 A package to easily make use of [Iconsax](https://iconsax.io/) in your Laravel Blade views.
 
 This package contains 1.000 icons in 6 diferent styles, a total of 6,000 icons.
-For a full list of available icons see [the SVG directory](resources/svg) or preview them at [https://iconsax-react.pages.dev/](https://iconsax-react.pages.dev/).
+For a full list of available icons see [the SVG directory](resources/svg) or preview them at [https://blade-ui-kit.com/blade-icons](https://blade-ui-kit.com/blade-icons?set=70).
 
 ## Requirements
 
