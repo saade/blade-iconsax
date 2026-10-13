@@ -14,6 +14,9 @@
     <a href="https://packagist.org/packages/saade/blade-iconsax">
         <img src="https://img.shields.io/packagist/dt/saade/blade-iconsax" alt="Total Downloads">
     </a>
+    <a href="https://plumbphp.dev/saade/blade-iconsax">
+        <img src="https://plumbphp.dev/badges/saade/blade-iconsax/composite.svg" alt="Plumb score">
+    </a>
 </p>
 
 A package to easily make use of [Iconsax](https://iconsax.io/) in your Laravel Blade views.
