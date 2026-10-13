@@ -1,0 +1,35 @@
+version: 2
+updates:
+
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+    cooldown:
+      default-days: 7
+    labels:
+      - "dependencies"
+      - "github-actions"
+
+  - package-ecosystem: "composer"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+    cooldown:
+      default-days: 7
+    labels:
+      - "dependencies"
+      - "php"
+
+  # The update-icons workflow bumps iconsax and syncs the SVGs in one pull request.
+  - package-ecosystem: "npm"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+    cooldown:
+      default-days: 7
+    labels:
+      - "dependencies"
+      - "javascript"
+    ignore:
+      - dependency-name: "iconsax"
