@@ -1,7 +1,7 @@
 # Blade Iconsax
 
 <p align="center">
-    <img src="art/styles.png" height="600" title="1,000 icons">
+    <img src="art/cover.png" height="600" title="1,100+ icons">
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 A package to easily make use of [Iconsax](https://iconsax.io/) in your Laravel Blade views.
 
-This package contains the 1,185 free Iconsax V2 icons in up to 6 different styles, a total of 6,918 icons.
+This package contains the 1,100+ free Iconsax V2 icons in up to 6 different styles, a total of 6,900+ icons.
 For a full list of available icons see [the SVG directory](resources/svg) or browse them at [https://iconsax.io](https://iconsax.io).
 
 ## Requirements
