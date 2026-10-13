@@ -18,13 +18,13 @@
 
 A package to easily make use of [Iconsax](https://iconsax.io/) in your Laravel Blade views.
 
-This package contains 1.000 icons in 6 diferent styles, a total of 6,000 icons.
-For a full list of available icons see [the SVG directory](resources/svg) or preview them at [https://blade-ui-kit.com/blade-icons](https://blade-ui-kit.com/blade-icons?set=70).
+This package contains the 1,185 free Iconsax V2 icons in up to 6 different styles, a total of 6,918 icons.
+For a full list of available icons see [the SVG directory](resources/svg) or browse them at [https://iconsax.io](https://iconsax.io).
 
 ## Requirements
 
-- PHP 7.4 or higher
-- Laravel 8.0 or higher
+- PHP 8.0 or higher
+- Laravel 9.0 or higher
 
 ## Installation
 
@@ -34,7 +34,7 @@ composer require saade/blade-iconsax
 
 ## Updating
 
-Please refer to [`the upgrade guide`](UPGRADE.md) when updating the library.
+The major version of this package follows the major version of Iconsax. Version 2 ships the Iconsax V2 set, which renamed and removed icons from V1: the [CHANGELOG](CHANGELOG.md) lists every one of them.
 
 ## Blade Icons
 
@@ -68,7 +68,7 @@ And even use inline styles:
 <x-iconsax-bol-airdrop style="color: #555"/>
 ```
 
-Each icon has 6 variants:
+Most icons have 6 variants:
 ### Bold icons
 ```blade
 <x-iconsax-bol-airdrop/>
@@ -111,6 +111,15 @@ Then use them in your views like:
 
 ```blade
 <img src="{{ asset('vendor/blade-iconsax/bol-airdrop.svg') }}" width="10" height="10"/>
+```
+
+## Syncing icons
+
+The icons are generated from the official [`iconsax`](https://www.npmjs.com/package/iconsax) npm package. A scheduled workflow opens a pull request whenever a new version changes them. To run it locally:
+
+```bash
+npm install --save-dev --save-exact iconsax@latest
+npm run sync
 ```
 
 ## Changelog

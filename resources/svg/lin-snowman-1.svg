@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+  <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M15.78 13.52c.81.9 1.31 2.09 1.31 3.4A5.08 5.08 0 0 1 12.01 22c-2.8 0-5.08-2.28-5.08-5.08 0-1.31.49-2.5 1.31-3.4m1.6-2.47c-.73-.62-1.2-1.54-1.2-2.57 0-1.13.56-2.13 1.41-2.74m3.9-.01c.86.61 1.41 1.61 1.41 2.74 0 1.03-.47 1.96-1.2 2.57M8.1 5.73h7.8M14.41 2H9.6v3.73h4.81z"/>
+  <path fill="currentColor" d="M12 9.18a.62.62 0 1 0 0-1.24.62.62 0 0 0 0 1.24m0 10.83a.62.62 0 1 0 0-1.24.62.62 0 0 0 0 1.24"/>
+  <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M15.78 11.05H8.23v2.49h7.55z"/>
+  <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M15.78 13.54s2.45-1.16 3.4-4.19"/>
+  <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M18.27 11.25s1.87.33 2.61-.95M8.22 13.54s-2.45-1.16-3.4-4.19"/>
+  <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M5.73 11.25s-1.87.33-2.61-.95m10.12 3.24h-2.49v2.49h2.49zm-2.48 2.48v1.12m2.48-1.12v1.12"/>
+</svg>

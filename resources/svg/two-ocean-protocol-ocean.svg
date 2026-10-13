@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" aria-hidden="true">
+  <g stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10">
+    <path stroke-width="3" d="M12 3.2v.01m0 4.49v.01m0 3.99v.01"/>
+    <path stroke-width="2" d="M12 15.7v.01" opacity=".4"/>
+    <path stroke-width="1.5" d="M12 19.2v.01" opacity=".4"/>
+    <path d="M12 22.2v.01" opacity=".4"/>
+    <path stroke-width="3" d="M3.5 7.7v.01m17-.01v.01"/>
+    <path stroke-width="2" d="M20.5 11.7v.01m-17-.01v.01" opacity=".4"/>
+    <path stroke-width="1.5" d="M20.5 14.7v.01" opacity=".4"/>
+    <path d="M20.5 17.7v.01" opacity=".4"/>
+    <path stroke-width="1.5" d="M3.5 14.7v.01" opacity=".4"/>
+    <path d="M3.5 17.7v.01" opacity=".4"/>
+    <path stroke-width="3" d="M7.8 9.7v.01M7.75 5.5v.01M16.2 9.7v.01m.05-4.21v.01"/>
+    <path stroke-width="2" d="M7.8 13.7v.01" opacity=".4"/>
+    <path stroke-width="1.5" d="M7.8 16.7v.01" opacity=".4"/>
+    <path d="M7.8 19.7v.01" opacity=".4"/>
+    <path stroke-width="2" d="M16.2 13.7v.01" opacity=".4"/>
+    <path stroke-width="1.5" d="M16.2 16.7v.01" opacity=".4"/>
+    <path d="M16.2 19.7v.01" opacity=".4"/>
+  </g>
+</svg>

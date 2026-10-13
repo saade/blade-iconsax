@@ -1,6 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
-  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M16 8H8v8h8V8zM5 22c1.65 0 3-1.35 3-3v-3H5c-1.65 0-3 1.35-3 3s1.35 3 3 3z"/>
-  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M5 8h3V5c0-1.65-1.35-3-3-3S2 3.35 2 5s1.35 3 3 3z" opacity=".4"/>
-  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M16 8h3c1.65 0 3-1.35 3-3s-1.35-3-3-3-3 1.35-3 3v3z"/>
-  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M19 22c1.65 0 3-1.35 3-3s-1.35-3-3-3h-3v3c0 1.65 1.35 3 3 3z" opacity=".4"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" aria-hidden="true">
+  <g stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5">
+    <path d="M16 8H8v8h8zM5 22c1.65 0 3-1.35 3-3v-3H5c-1.65 0-3 1.35-3 3s1.35 3 3 3"/>
+    <path d="M5 8h3V5c0-1.65-1.35-3-3-3S2 3.35 2 5s1.35 3 3 3" opacity=".4"/>
+    <path d="M16 8h3c1.65 0 3-1.35 3-3s-1.35-3-3-3-3 1.35-3 3z"/>
+    <path d="M19 22c1.65 0 3-1.35 3-3s-1.35-3-3-3h-3v3c0 1.65 1.35 3 3 3" opacity=".4"/>
+  </g>
 </svg>

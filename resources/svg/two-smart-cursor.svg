@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" aria-hidden="true">
+  <g stroke-width="1.5">
+    <path stroke-miterlimit="10" d="m11.2 14.56-1.14.26c-.82.19-1.46.83-1.65 1.65l-.27 1.14c-.03.12-.2.12-.23 0l-.26-1.14c-.19-.82-.83-1.46-1.65-1.65l-1.14-.27c-.12-.03-.12-.2 0-.23L6 14.06c.82-.19 1.46-.83 1.65-1.65l.27-1.14c.03-.12.2-.12.23 0l.26 1.14c.19.82.83 1.46 1.65 1.65l1.14.27c.12.03.12.2 0 .23Z"/>
+    <path stroke-linecap="round" stroke-linejoin="round" d="M12.11 17.71h2.38c.25.01.5.11.68.29l3.53 3.45c.56.55 1.39.7 2.11.4S22 20.84 22 20.06V5.49a2.233 2.233 0 0 0-3.8-1.59l-6.83 6.74" opacity=".4"/>
+    <path stroke-linecap="round" stroke-linejoin="round" d="M12 2H2m0 5h5"/>
+  </g>
+</svg>

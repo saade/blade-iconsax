@@ -1,0 +1,55 @@
+name: Update icons
+
+on:
+  schedule:
+    - cron: '0 6 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Install the latest Iconsax
+        run: |
+          npm ci --ignore-scripts
+          npm install --save-dev --save-exact --ignore-scripts iconsax@latest
+
+      - name: Sync icons
+        run: npm run --silent sync > "$RUNNER_TEMP/sync.md"
+
+      - name: Setup PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.4'
+          extensions: dom, curl, libxml, mbstring, zip
+          coverage: none
+
+      - name: Execute tests
+        run: |
+          composer update --prefer-dist --no-interaction --no-progress
+          vendor/bin/phpunit
+
+      - name: Open pull request
+        uses: peter-evans/create-pull-request@v7
+        with:
+          branch: update-icons
+          add-paths: |
+            resources/svg
+            package.json
+            package-lock.json
+          commit-message: 'feat: sync icons with iconsax'
+          title: Sync icons with Iconsax
+          body-path: ${{ runner.temp }}/sync.md

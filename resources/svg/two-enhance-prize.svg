@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" aria-hidden="true">
+  <g stroke-width="1.5">
+    <path stroke-miterlimit="10" d="m19.39 12.54-1.01.23c-.72.17-1.29.73-1.45 1.45l-.23 1.01c-.02.11-.18.11-.2 0l-.23-1.01c-.17-.72-.73-1.29-1.45-1.45l-1.01-.23c-.11-.02-.11-.18 0-.2l1.01-.23c.72-.17 1.29-.73 1.45-1.45l.23-1.01c.02-.11.18-.11.2 0l.23 1.01c.17.72.73 1.29 1.45 1.45l1.01.23c.11.02.11.18 0 .2Z"/>
+    <path stroke-linecap="round" stroke-linejoin="round" d="M13.47 15.14a5.56 5.56 0 0 1-7.03-5.36V3.11c0-.61.5-1.11 1.11-1.11h8.9c.61 0 1.11.5 1.11 1.11v3.97"/>
+    <path stroke-linecap="round" stroke-linejoin="round" d="M6.91 12h-.46C4 12 2.01 10.01 2.01 7.56V5.34c0-.61.5-1.11 1.11-1.11h3.33m14.56 6.11c.61-.76.98-1.73.98-2.78V5.34c0-.61-.5-1.11-1.11-1.11h-3.33" opacity=".4"/>
+    <path stroke-linecap="round" stroke-linejoin="round" d="M16.07 18.67H7.93c-.48 0-.9.31-1.05.76l-.37 1.11A1.104 1.104 0 0 0 7.56 22h8.89c.36 0 .69-.17.9-.46s.27-.66.15-1l-.37-1.11c-.15-.45-.58-.76-1.05-.76z"/>
+    <path stroke-linecap="round" stroke-linejoin="round" d="M12 15.33v3.33" opacity=".4"/>
+  </g>
+</svg>

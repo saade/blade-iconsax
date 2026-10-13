@@ -1,7 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
-  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M11 20a9 9 0 100-18 9 9 0 000 18z"/>
-  <g stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" opacity=".4">
-    <path d="M8.5 11h5M11 13.5v-5"/>
-  </g>
-  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M18.93 20.69c.53 1.6 1.74 1.76 2.67.36.85-1.28.29-2.33-1.25-2.33-1.14-.01-1.78.88-1.42 1.97z" opacity=".4"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" aria-hidden="true">
+  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M9.2 11.7h5m-2.5 2.5v-5" opacity=".4"/>
+  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M11.5 21a9.5 9.5 0 1 0 0-19 9.5 9.5 0 0 0 0 19"/>
+  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="m22 22-2-2" opacity=".4"/>
 </svg>

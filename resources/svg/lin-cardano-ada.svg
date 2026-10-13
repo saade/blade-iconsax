@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" aria-hidden="true">
+  <path stroke-miterlimit="10" d="M13.75 10a1 1 0 1 0 0-2 1 1 0 0 0 0 2Zm-3.5 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2Zm5.25 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2Zm1.65-3.25a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm0 6a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm2.6-3a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-12.95-3a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm0 6a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-2.6-3a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm11.7-6.8a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-7.8 0a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm3.95.8a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm3.85 13a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-7.8 0a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm3.95-.8a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5ZM8.5 13a1 1 0 1 0 0-2 1 1 0 0 0 0 2Zm1.75 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2Zm3.5 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2Z"/>
+  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 2.45z"/>
+  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M17.5 2.85zm0 18.35zm2.5-4.7zM20 7zM4 16.5zM4 7zm2.5-4.15zm0 18.35z"/>
+  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 21.5zM1.55 12zm20.95 0z"/>
+</svg>
