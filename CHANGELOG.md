@@ -6,7 +6,7 @@ This changelog follows [the Keep a Changelog standard](https://keepachangelog.co
 ## [Unreleased](https://github.com/saade/blade-iconsax/compare/v2.0.0...2.x)
 
 
-## 2.0.0 (unreleased)
+## 2.0.0 (2026-10-13)
 
 The major version of this package now follows the major version of Iconsax. This release replaces the Iconsax V1 set with the free Iconsax V2 set, generated from the official [`iconsax`](https://www.npmjs.com/package/iconsax) npm package (0.1.1).
 
